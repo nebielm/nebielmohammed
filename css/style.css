@@ -831,6 +831,7 @@ a:hover {
 .testimonial-box {
   color: #fff;
   text-align: center;
+  height: 65vh;
 }
 
 .testimonial-box .author-test {
