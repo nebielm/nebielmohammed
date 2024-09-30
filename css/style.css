@@ -829,6 +829,10 @@ a:hover {
 }
 
 .testimonial-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
   color: #fff;
   text-align: center;
   height: 65vh;
