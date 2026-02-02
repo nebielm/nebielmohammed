@@ -107,6 +107,7 @@
 		autoplay: true,
 		autoplayTimeout: 4000,
 		autoplayHoverPause: true,
+		startPosition: 0,
 		responsive: {
 			0: {
 				items: 1,
